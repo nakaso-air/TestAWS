@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_gnqQQR6KEeeiC8bm443I9Q" label="GIT_2" description="" language="java" technicalLabel="GIT_2" creationDate="2017-04-11T16:42:23.000+0900" author="_gnqQQh6KEeeiC8bm443I9Q" productVersion="Talend Real-time Big Data Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nakaso-air/TestAWS.git&quot;,&quot;login&quot;:&quot;nakaso@air.co.jp&quot;,&quot;passwd&quot;:&quot;Eu+H5ONiA1V1Vus896DTrQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ"/>
+  <TalendProperties:User xmi:id="_gnqQQh6KEeeiC8bm443I9Q" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
